@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255697135180",
+    "project_id": "helphive-32deb",
+    "storage_bucket": "helphive-32deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255697135180:android:c009213f640a828dd476e9",
+        "android_client_info": {
+          "package_name": "com.example.help_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrL2cQ6D_qUh--bShsvkXaxi6shohcHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
